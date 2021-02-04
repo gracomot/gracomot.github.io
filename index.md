@@ -1,4 +1,16 @@
 
-<h1>Toxic Comment Classifier </h1>
+<h3>Toxic Comment Classifier </h3>
+<h4> This webpage classifies users' using one of the following categories</h4>
+<ul>
+  <li> toxic </li>
+  <li> severe toxic </li>
+  <li> obscene </li>
+  <li> threat </li>
+  <li> insult </li>
+  <li> identity hate </li>
+  </ul>
+
+    
+   
 
 
